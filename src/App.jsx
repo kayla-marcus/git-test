@@ -9,6 +9,8 @@ function App() {
       <p className="read-the-docs">
         Lorem ipsum dolor amet ipsum consectur dolor delian fectur ipsum et al sum.
       </p>
+      <p>Ooppppss... a mistake!</p>
+      
       <img src={image} width={"400px"}/>
     </>
   )
