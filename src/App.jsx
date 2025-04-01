@@ -9,7 +9,7 @@ function App() {
       <p className="read-the-docs">
         Lorem ipsum dolor amet ipsum consectur dolor delian fectur ipsum et al sum.
       </p>
-      <img src={image} width={"400px"}/>
+      <img className='image' src={image} width={"400px"}/>
     </>
   )
 }
