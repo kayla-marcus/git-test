@@ -10,7 +10,7 @@ function App() {
         Lorem ipsum dolor amet ipsum consectur dolor delian fectur ipsum et al sum.
       </p>
       <p>Ooppppss... a mistake!</p>
-      
+      <p>Ooppppss... another mistake!</p>
       <img src={image} width={"400px"}/>
     </>
   )
