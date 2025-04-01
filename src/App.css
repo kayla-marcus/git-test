@@ -8,3 +8,9 @@
 .read-the-docs {
   color: #1900ff;
 }
+
+.image {
+  border-radius: 16px;
+  background: lightblue;
+  padding: 8px;
+}

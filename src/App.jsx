@@ -12,6 +12,7 @@ function App() {
       <p>Ooppppss... a mistake!</p>
       <p>Ooppppss... another mistake!</p>
       <img src={image} width={"400px"}/>
+      <img className='image' src={image} width={"400px"}/>
     </>
   )
 }
