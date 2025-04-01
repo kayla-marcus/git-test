@@ -6,7 +6,7 @@ function App() {
     <>
       <h1>Weclome to the Git Test!!!</h1>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Lorem ipsum dolor amet ipsum consectur dolor delian fectur ipsum et al sum.
       </p>
     </>
   )
