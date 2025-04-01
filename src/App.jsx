@@ -1,4 +1,5 @@
 import './App.css'
+import image from './assets/kayla-rollerskating.png';
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
       <p className="read-the-docs">
         Lorem ipsum dolor amet ipsum consectur dolor delian fectur ipsum et al sum.
       </p>
+      <img src={image} width={"400px"}/>
     </>
   )
 }
